@@ -30,8 +30,7 @@ This project demonstrates my ability to:
 ---
 ## 📸 Visualization Gallery
 
-Below is a curated collection of plots created using Matplotlib & Seaborn.  
-(Replace the dummy image paths with your actual screenshot locations)
+Some screenshots of the plots created in this project.
 
 ---
 
@@ -49,24 +48,24 @@ Shows the relationship between two variables along with their individual distrib
 
 ---
 
-### **3️⃣ Histogram (Histplot)**  
+### **3️⃣ Distplot**  
 Displays the distribution of a numerical feature, useful for understanding frequency patterns.
 
-![Histogram](screenshots/histplot.png)
+![Histogram](screenshots/distplot.png)
 
 ---
 
 ### **4️⃣ Scatter Plot**  
 Visualizes correlations or patterns between two continuous variables.
 
-![Scatter Plot](screenshots/scatterplot.png)
+![Scatter Plot](screenshots/lmplot.png)
 
 ---
 
 ### **5️⃣ KDE Plot**  
 A Kernel Density Estimate plot that smooths the data distribution for better pattern visibility.
 
-![KDE Plot](screenshots/kdeplot.png)
+![KDE Plot](screenshots/kde2.png)
 
 ---
 
