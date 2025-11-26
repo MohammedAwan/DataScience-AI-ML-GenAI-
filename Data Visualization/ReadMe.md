@@ -1,14 +1,8 @@
 # 📊 Data Visualization Project  
 _A practical exploration of visual analytics using Matplotlib & Seaborn_
 
-This project is part of my Data Science & Machine Learning learning journey, where I focused on understanding how visualizations can reveal patterns, trends, and hidden insights in data.  
+This project is part of my Data Science Course, where I focused on understanding how visualizations can reveal patterns, trends, and hidden insights in data.  
 Using Python’s powerful visualization libraries, I created a wide range of plots to analyze datasets, improve interpretability, and enhance data storytelling.
-
----
-
-## 👨‍💻 Author  
-**Mohammed Awan**  
-🔗 GitHub Repository: [Data Visualization Project](https://github.com/MohammedAwan/DataScience-AI-ML-GenAI-/tree/main/Data%20Visualization)
 
 ---
 
@@ -26,7 +20,7 @@ This project demonstrates my ability to:
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.14**
 - **Matplotlib**
 - **Seaborn**
 - **Pandas**
