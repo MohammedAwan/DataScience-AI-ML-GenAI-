@@ -28,6 +28,67 @@ This project demonstrates my ability to:
 - **Jupyter Notebook**
 
 ---
+## 📸 Visualization Gallery
+
+Below is a curated collection of plots created using Matplotlib & Seaborn.  
+(Replace the dummy image paths with your actual screenshot locations)
+
+---
+
+### **1️⃣ Dataset Preview**  
+A glimpse of the dataset used for visual analysis.
+
+![Dataset Preview](screenshots/dataset.png)
+
+---
+
+### **2️⃣ Joint Plot**  
+Shows the relationship between two variables along with their individual distributions.
+
+![Joint Plot](screenshots/jointplot.png)
+
+---
+
+### **3️⃣ Histogram (Histplot)**  
+Displays the distribution of a numerical feature, useful for understanding frequency patterns.
+
+![Histogram](screenshots/histplot.png)
+
+---
+
+### **4️⃣ Scatter Plot**  
+Visualizes correlations or patterns between two continuous variables.
+
+![Scatter Plot](screenshots/scatterplot.png)
+
+---
+
+### **5️⃣ KDE Plot**  
+A Kernel Density Estimate plot that smooths the data distribution for better pattern visibility.
+
+![KDE Plot](screenshots/kdeplot.png)
+
+---
+
+### **6️⃣ Box Plot**  
+Summarizes data distribution through quartiles and highlights outliers effectively.
+
+![Box Plot](screenshots/boxplot.png)
+
+---
+
+### **7️⃣ Violin Plot**  
+Combines KDE and boxplot elements to represent the density and spread of the data.
+
+![Violin Plot](screenshots/violinplot.png)
+
+---
+
+### **8️⃣ Facet Grid**  
+Displays multiple plots split across different categories, helping compare patterns.
+
+![Facet Grid](screenshots/facetgrid.png)
+
 
 ## 📘 How to Run the Project
 
